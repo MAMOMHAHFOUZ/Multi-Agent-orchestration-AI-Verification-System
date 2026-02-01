@@ -52,8 +52,11 @@ The system enforces a strict verification policy. Agent-B evaluates the input ar
 ## challenges
 
 -Faced some environment configuration challenges during final deployment, but the logic and microservices architecture are fully implemented and ready for scaling.
-Business Impact & Value Proposition
-1. Decrease Operational Costs:
+
+
+### 🚀 Business Impact
+
+* **Decrease Operational Costs:**
 
 Automation: Reduces the need for manual document auditing, cutting down labor costs significantly.
 
@@ -61,12 +64,13 @@ Scalability: The system handles requests simultaneously without needing addition
 
 Error Reduction: Minimizes costly human errors and the need for rework by ensuring 100% accuracy in initial document verification.
 
-2. Enhance Employee Productivity:
+* **Enhance Employee Productivity:**
 
 Focus on High-Value Tasks: Frees employees from repetitive "counting and checking" tasks, allowing them to focus on decision-making and complex case management.
 
 Faster Turnaround: Automating the workflow increases the overall team output and speeds up the internal approval cycle.
 
-3. Smooth Customer Experience:
+* **Smooth Customer Experience:**
 
 Instant Feedback: Customers receive real-time updates on their submission status, eliminating the frustration of long waiting periods.
+
